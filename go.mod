@@ -1,6 +1,6 @@
 module github.com/cloudcopper/random
 
-go 1.23.4
+go 1.22.0
 
 require (
 	github.com/go-loremipsum/loremipsum v1.1.3
